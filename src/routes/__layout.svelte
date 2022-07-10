@@ -1,4 +1,5 @@
 <script>
+import { supabase } from "../supabase.js"
 import Nav from "../components/nav.svelte";
 import "../styles/tailwind-output.css"
 </script>
